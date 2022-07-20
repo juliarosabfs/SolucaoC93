@@ -29,7 +29,7 @@ console.log(keyPressed);
 	if(keyPressed == '82') 
 	{
 		block_x = 10;
-		new_image('Vermelho.jpg');
+		new_image('vermelho.jpg');
 		console.log('R')
 	}
 	if(keyPressed == '71')
@@ -42,7 +42,7 @@ console.log(keyPressed);
 	if(keyPressed == '89')
 	{
 		block_x = 560;
-		new_image('Amarelo.png');
+		new_image('amarelo.png');
 		console.log('Y')
 	}
 	if(keyPressed == '80')
