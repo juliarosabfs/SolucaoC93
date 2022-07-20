@@ -45,11 +45,11 @@ console.log(keyPressed);
 		new_image('Amarelo.png');
 		console.log('A')
 	}
-	if(keyPressed == '114')
+	if(keyPressed == '82')
 	{
 		block_x = 880;
 		new_image('rosa.png');
-		console.log('r')
+		console.log('R')
 	}
 	if(keyPressed == '97')
 	{
